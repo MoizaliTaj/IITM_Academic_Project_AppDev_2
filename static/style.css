@@ -1,0 +1,20 @@
+body{
+  background-color: #fcde67;
+  font-size: Medium;
+  color: #052465;
+}
+
+table, tr, td,th {
+  border: 1px solid black;
+  border-collapse:collapse;
+  padding:5px;
+}
+
+.user{
+  color:white;
+}
+
+
+.footercustom {
+  background-color: rgba(0, 0, 0, 0.05);color: #052465;
+}
