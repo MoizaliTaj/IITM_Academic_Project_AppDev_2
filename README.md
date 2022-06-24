@@ -12,4 +12,4 @@ Admin	imp
 Prashant	upda
 Sameer	sukha
 
-## Below is a details explanation of various pages in this application
+## Below is a detailed explanation of various pages in this application
