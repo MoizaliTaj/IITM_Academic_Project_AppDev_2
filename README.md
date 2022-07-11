@@ -9,7 +9,9 @@ This application can be used for memory training. You can create question on var
 Below are the username and password added to the app currently.
 
 Username: Admin, Password: imp
+
 Username: Prashant, Password: upda
+
 Username: Sameer, Password: sukha
 
 ## Below is a detailed explanation of various pages in this application
