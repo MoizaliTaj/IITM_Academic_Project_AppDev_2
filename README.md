@@ -35,4 +35,3 @@ Currently, there are 3 users in the application:
 - Deck Dashboard: This oage shows ratings for different deck and card name given by all users.
 - Deck Management: This page is only available when Admin user is loged in. This page can be used to modify curent deck or add new deck.
 - Reporting:  This page is only available when Admin user is loged in. This page contains option to send email reminders to user who have not attempted and quiz recently.
-```
